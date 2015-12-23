@@ -1,0 +1,13 @@
+D:\Chameleon\VisualStudio workspace\testDragWPF\testDragWPF\bin\Debug\testDragWPF.exe.config
+D:\Chameleon\VisualStudio workspace\testDragWPF\testDragWPF\bin\Debug\testDragWPF.exe
+D:\Chameleon\VisualStudio workspace\testDragWPF\testDragWPF\bin\Debug\testDragWPF.pdb
+D:\Chameleon\VisualStudio workspace\testDragWPF\testDragWPF\obj\Debug\testDragWPF.csprojResolveAssemblyReference.cache
+D:\Chameleon\VisualStudio workspace\testDragWPF\testDragWPF\obj\Debug\MainWindow.baml
+D:\Chameleon\VisualStudio workspace\testDragWPF\testDragWPF\obj\Debug\MainWindow.g.cs
+D:\Chameleon\VisualStudio workspace\testDragWPF\testDragWPF\obj\Debug\App.g.cs
+D:\Chameleon\VisualStudio workspace\testDragWPF\testDragWPF\obj\Debug\testDragWPF_MarkupCompile.cache
+D:\Chameleon\VisualStudio workspace\testDragWPF\testDragWPF\obj\Debug\testDragWPF.g.resources
+D:\Chameleon\VisualStudio workspace\testDragWPF\testDragWPF\obj\Debug\testDragWPF.Properties.Resources.resources
+D:\Chameleon\VisualStudio workspace\testDragWPF\testDragWPF\obj\Debug\testDragWPF.csproj.GenerateResource.Cache
+D:\Chameleon\VisualStudio workspace\testDragWPF\testDragWPF\obj\Debug\testDragWPF.exe
+D:\Chameleon\VisualStudio workspace\testDragWPF\testDragWPF\obj\Debug\testDragWPF.pdb
